@@ -1,3 +1,7 @@
+
+
+[TOC]
+
 # Graph Neural Network
 
 ## Dynamic Graph
