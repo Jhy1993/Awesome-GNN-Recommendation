@@ -18,6 +18,12 @@ We also have an Wechat Official Account, providing some materials about GNN and 
 
 ![图与推荐](README.assets/图与推荐.png)
 
+You're most welcome to join us with any contributions for GNN and Recommendation!
+Here is the template for contributors:
+```
+[ID] Authors. **Paper_Name**. Conference&Year. [paper](paper_link)
+```
+
 # Graph Neural Network
 
 1. Long, Qingqing and Jin, Yilun and Song, Guojie and Li, Yi and Lin, Wei. **Graph Structural-topic Neural Network**. KDD 2020. [paper](https://arxiv.org/abs/2006.14278)
