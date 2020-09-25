@@ -8,10 +8,11 @@ Graph neural network, as a powerful graph representation learning method, has be
 
 As far as I can see, graph mining is highly related to recommender systems. Recommend one item to one user actually is the link prediction on the user-item graph.
 
-This repository mainly consists of two parts:
+This repository mainly consists of three parts:
 
 - Graph Neural Network
 - GNN based Recommendation
+- GNN related Resources
 
 We also have an Wechat Official Account, providing some materials about GNN and Recommendation.
 
