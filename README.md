@@ -21,7 +21,7 @@ We also have an Wechat Official Account, providing some materials about GNN and 
 You're most welcome to join us with any contributions for GNN and Recommendation!
 Here is the template for contributors:
 ```
-[ID] Authors. **Paper_Name**. Conference&Year. [paper](paper_link)
+[ID] Authors. **Paper_Name**. Conference&Year. [Paper](Paper_Link)
 ```
 
 # Graph Neural Network
