@@ -23,7 +23,10 @@ Here is the template for contributors:
 ```
 [ID] Authors. **Paper_Name**. Conference&Year. [Paper](Paper_Link)
 ```
-
+A simple example for template:
+```
+1. Long, Qingqing and Jin, Yilun and Song, Guojie and Li, Yi and Lin, Wei. **Graph Structural-topic Neural Network**. KDD 2020. [paper](https://arxiv.org/abs/2006.14278)
+```
 # Graph Neural Network
 
 1. Long, Qingqing and Jin, Yilun and Song, Guojie and Li, Yi and Lin, Wei. **Graph Structural-topic Neural Network**. KDD 2020. [paper](https://arxiv.org/abs/2006.14278)
