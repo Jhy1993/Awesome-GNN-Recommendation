@@ -10,10 +10,10 @@ As far as I can see, graph mining is highly related to recommender systems. Reco
 
 This repository mainly consists of three parts:
 
-- Graph Neural Network
-- GNN based Recommendation
-- GNN related Resources
-- Dataset for GNN or Recommendation
+- **Graph Neural Network**
+- **GNN based Recommendation**
+- **GNN related Resources**
+- **Dataset for GNN or Recommendation**
 
 We also have an Wechat Official Account, providing some materials about GNN and Recommendation.
 
