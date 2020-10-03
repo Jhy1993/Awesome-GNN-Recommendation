@@ -34,8 +34,10 @@ A simple example for template:
 3. Nikolaos Karalias and Andreas Loukas. **Erdos Goes Neural: an Unsupervised Learning Framework for Combinatorial Optimization on Graphs**. NeurIPS 2020. [paper](https://arxiv.org/abs/2006.10643)
 4. Xiang Zhang and Marinka Zitnik. **GNNGuard: Defending Graph Neural Networks against Adversarial Attacks**. NeurIPS 2020. [paper](https://arxiv.org/abs/2006.08149)
 5. Zheng Ma and Junyu Xuan and Yu Guang Wang and Ming Li and Pietro Lio. **Path Integral Based Convolution and Pooling for Graph Neural Networks** NeurIPS 2020. [paper](https://arxiv.org/abs/2006.16811)
+
 <details> 
 <summary> more </summary> 
+    
 6. Daniel D. Johnson and Hugo Larochelle and Daniel Tarlow. **Learning Graph Structure With A Finite-State Automaton Layer**. NeurIPS 2020. [paper](https://arxiv.org/abs/2007.04929)
 7. Vitaly Kurin and Saad Godil and Shimon Whiteson and Bryan Catanzaro. **Improving SAT Solver Heuristics with Graph Networks and Reinforcement Learning**. NeurIPS 2020. [paper](https://arxiv.org/abs/1909.11830)
 8. Zhiwei Deng and Karthik Narasimhan and Olga Russakovsky. **Evolving Graphical Planner: Contextual Global Planning for Vision-and-Language Navigation** NeurIPS 2020. [paper](https://arxiv.org/abs/2007.05655)
@@ -89,6 +91,7 @@ A simple example for template:
 55. Hao Yuan, Jiliang Tang, Xia Hu, Shuiwang Ji. **XGNN: Towards Model-Level Explanations of Graph Neural Networks** KDD2020. [paper](https://arxiv.org/pdf/2006.02587.pdf)
 56. Lei Yang, Qingqiu Huang, Huaiyi Huang, Linning Xu, and Dahua Lin**Learn to Propagate Reliably on Noisy Affinity Graphs** ECCV2020. [paper](https://arxiv.org/pdf/2007.08802.pdf)
 57. Yao Ma, Ziyi Guo, Zhaochun Ren, Eric Zhao, Jiliang Tang, Dawei Yin. **Streaming Graph Neural Networks**  SIGIR2020. [paper](https://arxiv.org/abs/1810.10627)
+
 </details>
 
 
@@ -99,8 +102,10 @@ A simple example for template:
 3. Rianne van den Berg, Thomas N. Kipf, Max Welling. **Graph Convolutional Matrix Completion.** 2017. [paper](https://arxiv.org/abs/1706.02263)
 4. Jiani Zhang, Xingjian Shi, Shenglin Zhao, Irwin King. **STAR-GCN: Stacked and Reconstructed Graph Convolutional Networks for Recommender Systems.** IJCAI 2019. [paper](https://arxiv.org/pdf/1905.13129.pdf)
 5. Haoyu Wang, Defu Lian, Yong Ge. **Binarized Collaborative Filtering with Distilling Graph Convolutional Networks.** IJCAI 2019. [paper](https://arxiv.org/pdf/1906.01829.pdf)
+
 <details> 
 <summary> more </summary> 
+
 6. Chengfeng Xu, Pengpeng Zhao, Yanchi Liu, Victor S. Sheng, Jiajie Xu, Fuzhen Zhuang, Junhua Fang, Xiaofang Zhou. **Graph Contextualized Self-Attention Network for Session-based Recommendation.** IJCAI 2019. [paper](https://www.ijcai.org/proceedings/2019/0547.pdf)
 7. Shu Wu, Yuyuan Tang, Yanqiao Zhu, Liang Wang, Xing Xie, Tieniu Tan. **Session-based Recommendation with Graph Neural Networks.** AAAI 2019. [paper](https://arxiv.org/pdf/1811.00855.pdf)
 8. Jin Shang, Mingxuan Sun. **Geometric Hawkes Processes with Graph Convolutional Recurrent Neural Networks.** AAAI 2019. [paper](https://jshang2.github.io/pubs/geo.pdf)
