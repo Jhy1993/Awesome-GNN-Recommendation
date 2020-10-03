@@ -13,6 +13,7 @@ This repository mainly consists of three parts:
 - Graph Neural Network
 - GNN based Recommendation
 - GNN related Resources
+- Dataset for GNN or Recommendation
 
 We also have an Wechat Official Account, providing some materials about GNN and Recommendation.
 
@@ -152,7 +153,7 @@ https://zhuanlan.zhihu.com/c_1158788280744173568
 
 ![image-20200925152306468](README.assets/image-20200925152306468.png)
 
-# Dataset Statistics
+# Dataset for GNN or Recommendation
 
 ## ACM-1
 
