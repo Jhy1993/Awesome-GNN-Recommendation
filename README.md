@@ -1,5 +1,3 @@
-
-
 [TOC]
 
 # Introduction
@@ -13,6 +11,7 @@ This repository mainly consists of three parts:
 - **Graph Neural Network**
 - **GNN based Recommendation**
 - **GNN related Resources**
+   - Materials & Paper & Code
 - **Dataset for GNN or Recommendation**
 
 We also have an Wechat Official Account, providing some materials about GNN and Recommendation.
@@ -38,7 +37,7 @@ A simple example for template:
 
 <details> 
 <summary> more </summary> 
-    
+
 6. Daniel D. Johnson and Hugo Larochelle and Daniel Tarlow. **Learning Graph Structure With A Finite-State Automaton Layer**. NeurIPS 2020. [paper](https://arxiv.org/abs/2007.04929)
 7. Vitaly Kurin and Saad Godil and Shimon Whiteson and Bryan Catanzaro. **Improving SAT Solver Heuristics with Graph Networks and Reinforcement Learning**. NeurIPS 2020. [paper](https://arxiv.org/abs/1909.11830)
 8. Zhiwei Deng and Karthik Narasimhan and Olga Russakovsky. **Evolving Graphical Planner: Contextual Global Planning for Vision-and-Language Navigation** NeurIPS 2020. [paper](https://arxiv.org/abs/2007.05655)
@@ -135,23 +134,31 @@ A simple example for template:
 
 # GNN related Resouces
 
-## Class
+## Video Class
 
 Class for new people who are interested in GNN and Recommendation.
 
 Link:  https://www.epubit.com/courseDetails?id=PCC72369cd0eb9e7
 
-
+![image-20201005221302436](README.assets/image-20201005221302436.png)
 
 ![图机器学习（时下最炙手可热新技术/8章3大模型应用）](README.assets/resize,m_fill,h_300,w_400,limit_0.png)
 
 ## Meterials
 
-https://zhuanlan.zhihu.com/c_1158788280744173568
+Zhihu Link  https://zhuanlan.zhihu.com/c_1158788280744173568  
+
+Here are some meterials in my Zhihu.
+
+![image-20201005221352983](README.assets/image-20201005221352983.png) 
+
+![image-20201005221338845](README.assets/image-20201005221338845.png)
+
+
 
 ## QQ & Wechat
 
-![image-20200925152306468](README.assets/image-20200925152306468.png)
+<img src="README.assets/image-20200925152306468.png" alt="image-20200925152306468" style="zoom:25%;" />
 
 # Dataset for GNN or Recommendation
 
@@ -199,170 +206,170 @@ https://zhuanlan.zhihu.com/c_1158788280744173568
 
 (Source : https://grouplens.org/datasets/movielens/)
 
-| Entity         |#Entity        |
-| :-------------:|:-------------:|
-| User           | 943           |
-| Age            | 8             |
-| Occupation     | 21            |
-| Movie          | 1,682         |
-| Genre          | 18            |
+|   Entity   | #Entity |
+| :--------: | :-----: |
+|    User    |   943   |
+|    Age     |    8    |
+| Occupation |   21    |
+|   Movie    |  1,682  |
+|   Genre    |   18    |
 
 ### Relation Statistics
-| Relation            |#Relation      |
-| :-------------:     |:-------------:|
-| User - Movie        | 100,000       |
-| User - User (KNN)   | 47,150        |
-| User - Age          | 943           |
-| User - Occupation   | 943           |
-| Movie - Movie (KNN) | 82,798        |
-| Movie - Genre       | 2,861         |
+|      Relation       | #Relation |
+| :-----------------: | :-------: |
+|    User - Movie     |  100,000  |
+|  User - User (KNN)  |  47,150   |
+|     User - Age      |    943    |
+|  User - Occupation  |    943    |
+| Movie - Movie (KNN) |  82,798   |
+|    Movie - Genre    |   2,861   |
 
 ## Douban Movie
 (Containing rating information)
 
 ### Entity Statistics
-| Entity         |#Entity        |
-| :-------------:|:-------------:|
-| User           | 13,367        |
-| Movie          | 12,677        |
-| Group          | 2,753         |
-| Actor          | 6,311         |
-| Director       | 2,449         |
-| Type           | 38            |
+|  Entity  | #Entity |
+| :------: | :-----: |
+|   User   | 13,367  |
+|  Movie   | 12,677  |
+|  Group   |  2,753  |
+|  Actor   |  6,311  |
+| Director |  2,449  |
+|   Type   |   38    |
 
 ### Relation Statistics
-| Relation          |#Relation      |
-| :-------------:   |:-------------:|
-| User - Movie      | 1,068,278     |
-| User - Group      | 570,047       |
-| User - User       | 4,085         |
-| Movie - Actor     | 33,587        |
-| Movie - Director  | 11,276        |
-| Movie - Type      | 27,668        |
+|     Relation     | #Relation |
+| :--------------: | :-------: |
+|   User - Movie   | 1,068,278 |
+|   User - Group   |  570,047  |
+|   User - User    |   4,085   |
+|  Movie - Actor   |  33,587   |
+| Movie - Director |  11,276   |
+|   Movie - Type   |  27,668   |
 ## Douban Book 
 (Containing rating information)
 
 ### Entity Statistics
-| Entity         |#Entity        |
-| :-------------:|:-------------:|
-| User           | 13,024        |
-| Book           | 22,347        |
-| Group          | 2,936         |
-| Location       | 38            |
-| Author         | 10,805        |
-| Publisher      | 1,815         |
-| Year           | 64            |
+|  Entity   | #Entity |
+| :-------: | :-----: |
+|   User    | 13,024  |
+|   Book    | 22,347  |
+|   Group   |  2,936  |
+| Location  |   38    |
+|  Author   | 10,805  |
+| Publisher |  1,815  |
+|   Year    |   64    |
 
 ### Relation Statistics
-| Relation          |#Relation      |
-| :-------------:   |:-------------:|
-| User - Book       | 792,062       |
-| User - Group      | 1,189,271     |
-| User - User       | 169,150       |
-| User - Location   | 10,592        |
-| Book - Author     | 21,907        |
-| Book - Publisher  | 21,773        |
-| Book - Year       | 21,192        |
+|     Relation     | #Relation |
+| :--------------: | :-------: |
+|   User - Book    |  792,062  |
+|   User - Group   | 1,189,271 |
+|   User - User    |  169,150  |
+| User - Location  |  10,592   |
+|  Book - Author   |  21,907   |
+| Book - Publisher |  21,773   |
+|   Book - Year    |  21,192   |
 ## Amazon
 (Containing rating and timestamp information)
 
 (Source : http://jmcauley.ucsd.edu/data/amazon/)
 ### Entity Statistics
-| Entity         |#Entity        |
-| :-------------:|:-------------:|
-| User           | 6,170         |
-| Item           | 2,753         |
-| View           | 3,857         |
-| Category       | 22            |
-| Brand          | 334           |
+|  Entity  | #Entity |
+| :------: | :-----: |
+|   User   |  6,170  |
+|   Item   |  2,753  |
+|   View   |  3,857  |
+| Category |   22    |
+|  Brand   |   334   |
 
 ### Relation Statistics
-| Relation          |#Relation      |
-| :-------------:   |:-------------:|
-| User - Item       | 195,791       |
-| Item - View       | 5,694         |
-| Item - Category   | 5,508         |
-| Item - Brand      | 2,753         |
+|    Relation     | #Relation |
+| :-------------: | :-------: |
+|   User - Item   |  195,791  |
+|   Item - View   |   5,694   |
+| Item - Category |   5,508   |
+|  Item - Brand   |   2,753   |
 ## LastFM
 (Note: We utilize the Pearson's coefficient to measure the similiarities in the KNN algorithm)
 
 (Source : https://grouplens.org/datasets/hetrec-2011/)
 
 ### Entity Statistics
-| Entity         |#Entity        |
-| :-------------:|:-------------:|
-| User           | 1,892         |
-| Artist         | 17,632        |
-| Tag            | 11,945        |
+| Entity | #Entity |
+| :----: | :-----: |
+|  User  |  1,892  |
+| Artist | 17,632  |
+|  Tag   | 11,945  |
 
 ### Relation Statistics
-| Relation               |#Relation      |
-| :-------------:        |:-------------:|
-| User - Artist          | 92834         |
-| User - User (Original) | 25,434        |
-| User - User (KNN)      | 18,802        |
-| Artist - Artist (KNN)  | 153,399       |
-| Artist - Tag           | 184,941       |
+|        Relation        | #Relation |
+| :--------------------: | :-------: |
+|     User - Artist      |   92834   |
+| User - User (Original) |  25,434   |
+|   User - User (KNN)    |  18,802   |
+| Artist - Artist (KNN)  |  153,399  |
+|      Artist - Tag      |  184,941  |
 
 ## Yelp
 (Containing rating information)
 ### Entity Statistics
-| Entity         |#Entity        |
-| :-------------:|:-------------:|
-| User           | 16,239        |
-| Business       | 14,284        |
-| Compliment     | 11            |
-| Category       | 47            |
-| City           | 511           |
+|   Entity   | #Entity |
+| :--------: | :-----: |
+|    User    | 16,239  |
+|  Business  | 14,284  |
+| Compliment |   11    |
+|  Category  |   47    |
+|    City    |   511   |
 
 ### Relation Statistics
-| Relation            |#Relation      |
-| :------------------:|:-------------:|
-| User - Business     | 198,397       |
-| User - User         | 158,590       |
-| User - Compliment   | 76,875        |
-| Business - City     | 14,267        |
-| Business - Category | 40,009        |
+|      Relation       | #Relation |
+| :-----------------: | :-------: |
+|   User - Business   |  198,397  |
+|     User - User     |  158,590  |
+|  User - Compliment  |  76,875   |
+|   Business - City   |  14,267   |
+| Business - Category |  40,009   |
 
 ## Yelp-2
 (Containing rating information)
 ### Entity Statistics
-| Entity         |#Entity        |
-| :-------------:|:-------------:|
-| User           | 1,286         |
-| Business       | 2,614         |
-| Service        | 2             |
-| Star level     | 9             |
-| Reservation    | 2             |
-| Category       | 3             |
+|   Entity    | #Entity |
+| :---------: | :-----: |
+|    User     |  1,286  |
+|  Business   |  2,614  |
+|   Service   |    2    |
+| Star level  |    9    |
+| Reservation |    2    |
+|  Category   |    3    |
 
 ### Relation Statistics
-| Relation                |#Relation      |
-| :----------------------:|:-------------:|
-| User - Business         | 30,838        |
-| Bussiness - Service     | 2,614         |
-| Bussiness - Star level  | 2,614         |
-| Business - Revervation  | 2,614         |
-| Business - Category     | 2,614         |
+|        Relation        | #Relation |
+| :--------------------: | :-------: |
+|    User - Business     |  30,838   |
+|  Bussiness - Service   |   2,614   |
+| Bussiness - Star level |   2,614   |
+| Business - Revervation |   2,614   |
+|  Business - Category   |   2,614   |
 
 ## DBLP-1
 (Note: author_map_id.dat map the author id to the unique id)
 ### Entity Statistics
-| Entity         |#Entity        |
-| :-------------:|:-------------:|
-| Author         | 14,475        |
-| Paper          | 14,376        |
-| Author_label   | 4             |
-| Conference     | 20            |
-| Type           | 8,920          |
+|    Entity    | #Entity |
+| :----------: | :-----: |
+|    Author    | 14,475  |
+|    Paper     | 14,376  |
+| Author_label |    4    |
+|  Conference  |   20    |
+|     Type     |  8,920  |
 
 ### Relation Statistics
-| Relation             |#Relation        |
-| :-----------------:|:-------------:|
-| Author - Label     | 4,057         |
-| Paper - Author     | 41,794        |
-| Paper - Conference | 14,376        |
-| Paper - Type       | 114,624       |
+|      Relation      | #Relation |
+| :----------------: | :-------: |
+|   Author - Label   |   4,057   |
+|   Paper - Author   |  41,794   |
+| Paper - Conference |  14,376   |
+|    Paper - Type    |  114,624  |
 
 ## DBLP-2
 
@@ -380,21 +387,21 @@ https://zhuanlan.zhihu.com/c_1158788280744173568
 
 (Note: author_map_id.dat map the author id to the unique id)
 ### Entity Statistics
-| Entity         |#Entity        |
-| :-------------:|:-------------:|
-| Author         | 164,472       |
-| Paper          | 127,623       |
-| Papel_label    | 10            |
-| Conference     | 101           |
-| Reference      | 147,251       |
+|   Entity    | #Entity |
+| :---------: | :-----: |
+|   Author    | 164,472 |
+|    Paper    | 127,623 |
+| Papel_label |   10    |
+| Conference  |   101   |
+|  Reference  | 147,251 |
 
 ### Relation Statistics
-| Relation             |#Relation        |
-| :-----------------:|:-------------:|
-| Paper - Label      | 127,623       |
-| Paper - Author     | 355,072       |
-| Paper - Conference | 127,632       |
-| Paper - Reference  | 392,519       |
+|      Relation      | #Relation |
+| :----------------: | :-------: |
+|   Paper - Label    |  127,623  |
+|   Paper - Author   |  355,072  |
+| Paper - Conference |  127,632  |
+| Paper - Reference  |  392,519  |
 
 ## IMDB
 
@@ -402,14 +409,14 @@ https://zhuanlan.zhihu.com/c_1158788280744173568
 
 链接:https://pan.baidu.com/s/1pRGfoGrOsOKs-x6o5KgHmg  密码:o0ap
 
-|         Entity         | #Entity |
-| :--------------------: | :-----: |
-|          Movie          |  14475  |
-| Actress |  /   |
-|         Actor         |    /    |
-|        Director        | / |
-|        Plot(movie feature)        | 1000 |
-|Genre(movie label)| 9|
+|       Entity        | #Entity |
+| :-----------------: | :-----: |
+|        Movie        |  14475  |
+|       Actress       |    /    |
+|        Actor        |    /    |
+|      Director       |    /    |
+| Plot(movie feature) |  1000   |
+| Genre(movie label)  |    9    |
 
 
 ## SLAP
@@ -423,11 +430,10 @@ https://zhuanlan.zhihu.com/c_1158788280744173568
 |          Gene          |  20419  |
 | Ontology(gene feature) |  3000   |
 |         Tissue         |    /    |
-|        Pathway         | / |
-|        Diease         | / |
-|Chemical Compound| /|
+|        Pathway         |    /    |
+|         Diease         |    /    |
+|   Chemical Compound    |    /    |
 |   Family(gene label)   |   15    |
 
 
 This repository is based on https://github.com/librahu/HIN-Datasets-for-Recommendation-and-Network-Embedding. Thanks to librahu.
-
