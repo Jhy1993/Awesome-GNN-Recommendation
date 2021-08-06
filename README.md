@@ -129,6 +129,70 @@ A simple example for template:
 26. Shijie Zhang, Hongzhi Yin, Tong Chen, Quoc Viet Nguyen Hung, Zi Huang, Lizhen Cui. **GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection** SIGIR2020 [paper](https://arxiv.org/pdf/2005.10150.pdf)
 27. Xiangnan He, Kuan Deng, Xiang Wang, Yan Li, Yongdong Zhang, Meng Wang.  **LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation** SIGIR2020 [paper](http://staff.ustc.edu.cn/~hexn/papers/sigir20-LightGCN.pdf)
 28. Shen Wang, Jibing Gong, Jinlong Wang, Wenzheng Feng, Hao Peng, Jie Tang, Philip S. Yu.  **Attentional Graph Convolutional Networks for Knowledge Concept Recommendation in MOOCs in a Heterogeneous View** SIGIR2020 [paper](https://keg.cs.tsinghua.edu.cn/jietang/publications/Sigir20-Gong-et-al-MOOC-concept-recommendation.pdf)
+29. **DEKR: Description Enhanced Knowledge Graph for Machine Learning Method Recommendation**
+    Xianshuai Cao, Yuliang Shi, Han Yu, Jihu Wang, Xinjun Wang, Zhongmin Yan and Zhiyong Chen
+30. **Sequential Recommendation with Graph Convolutional Networks**
+    Jianxin Chang, Chen Gao, Yu Zheng, Yiqun Hui, Yanan Niu, Yang Song, Depeng Jin and Yong Li
+31. **Structured Graph Convolutional Networks with Stochastic Masks for Recommender Systems**
+    Huiyuan Chen, Lan Wang, Yusan Lin, Michael Yeh, Fei Wang and Hao Yang
+32. **Adversarial-Enhanced Hybrid Graph Network for User Identity Linkage**
+    Xiaolin Chen, Xuemeng Song, Guozhen Peng, Shanshan Feng and Liqiang Nie
+33. **Unified Conversational Recommendation Policy Learning via Graph-based Reinforcement Learning**
+    Yang Deng, Yaliang Li, Fei Sun, Bolin Ding and Wai Lam
+34. **Graph Similarity Computation via Differentiable Optimal Assignment**
+    Khoa Doan, Saurav Manchanda, Suchismit Mahapatra and Chandan K Reddy
+35. **Should Graph Convolution Trust Neighbors? A Simple Causal Inference Method**
+    Fuli Feng, Weiran Huang, Xin Xin, Xiangnan He, Tat-Seng Chua and Qifan Wang
+36. **Hierarchical Cross-Modal Graph Consistency Learning for Video-Text Retrieval**
+    Weike Jin, Zhou Zhao, Pengcheng Zhang, Jieming Zhu, Xiuqiang He and Yueting Zhuang
+37. **Reinforcement Learning from Reformulations in Conversational Question Answering over Knowledge Graphs**
+    Magdalena Kaiser, Rishiraj Saha Roy and Gerhard Weikum
+38. **Look Before You Leap: Confirming Edge Signs in Random Walk with Restart for Personalized Node Ranking in Signed Networks**
+    Won Chang Lee, Yeon-Chang Lee, Dongwon Lee and Sang-Wook Kim
+39. **Package Recommendation with Intra- and Inter-Package Attention Networks**
+    Chen Li, Yuanfu Lu, Wei Wang, Chuan Shi, Ruobing Xie, Haili Yang, Cheng Yang, Xu Zhang and Leyu Lin
+40. **Temporal Knowledge Graph Reasoning Based on Evolutional Representation Learning**
+    Zixuan Li, Xiaolong Jin, Wei Li, Saiping Guan, Jiafeng Guo, Huawei Shen, Yuanzhuo Wang and Xueqi Cheng
+41. **A Graph-Enhanced Click Model for Web Search**
+    Jianghao Lin, Weiwen Liu, Xinyi Dai, Weinan Zhang, Shuai Li, Ruiming Tang, Xiuqiang He, Jianye Hao and Yong Yu
+42. **A Graph-Convolutional Ranking Approach to Leverage the Relational Aspects of User-Generated Content**
+    Kanika Narang, Adit Krishnan, Junting Wang, Chaoqi Yang, Hari Sundaram and Carolyn Sutter
+43. **Relational Learning with Gated and Attentive Neighbor Aggregator for Few-Shot Knowledge Graph Completion**
+    Guanglin Niu, Yang Li, Chengguang Tang, Ruiying Geng, Jian Dai, Qiao Liu, Hao Wang, Jian Sun, Fei Huang and Luo Si
+44. **Learning Graph Meta Embeddings for Cold-Start Ads in Click-Through Rate Prediction**
+    Wentao Ouyang, Xiuwu Zhang, Shukui Ren, Li Li, Kun Zhang, Jinmei Luo, Zhaojie Liu and Yanlong Du
+45. **Neural Graph Matching based Collaborative Filtering**
+    Yixin Su, Rui Zhang, Sarah M. Erfani and Junhao Gan
+46. **Modeling Intent Graph for Search Result Diversification**
+    Zhan Su, Zhicheng Dou, Yutao Zhu, Xubo Qin and Ji-Rong Wen
+47. **User-Centric Path Reasoning towards ExplainableRecommendation**
+    Chang-You Tai, Huang Liangying, Chienkun Huang and Ku Lun-Wei
+48. **Joint Knowledge Pruning and Recurrent Graph Convolution for News Recommendation**
+    Yu Tian, Yuhao Yang, Xudong Ren, Pengfei Wang, Fangzhao Wu, Qian Wang and Chenliang Li
+49. **Retrieving Complex Tables with Multi-Granular Graph Representation Learning**
+    Fei Wang, Kexuan Sun, Muhao Chen, Jay Pujara and Pedro Szekely
+50. **Privileged Graph Distillation for Cold-start Recommendation**
+    Shuai Wang, Kun Zhang, Le Wu, Haiping Ma, Richang Hong and Meng Wang
+51. **Decoupling Representation Learning and Classification for GNN-based Anomaly Detection**
+    Yanling Wang, Jing Zhang, Shasha Guo, Hongzhi Yin, Cuiping Li and Hong Chen
+52. **Meta-Inductive Node Classification across Graphs**
+    Zhihao Wen, Yuan Fang and Zemin Liu
+53. **Self-supervised Graph Learning for Recommendation**
+    Jiancan Wu, Xiang Wang, Fuli Feng, Xiangnan He, Liang Chen, Jianxun Lian and Xing Xie
+54. **TIE: A Framework for Embedding-based Incremental Temporal Knowledge Graph Completion**
+    Jiapeng Wu, Yishi Xu, Yingxue Zhang, Chen Ma, Mark Coates and Jackie Chi Kit Cheung
+55. **Graph Meta Network for Multi-Behavior Recommendation with Interaction Heterogeneity and Diversity**
+    Lianghao Xia, Chao Huang, Yong Xu, Peng Dai and Liefeng Bo
+56. **AdsGNN: Behavior-Graph Augmented Relevance Modeling in Sponsored Search**
+    Xing Xie, Chaozhuo Li, Zheng Liu, Bochen Pang, Tianqi Yang, Yuming Liu, Yanling Cui, Hao Sun, Qi Zhang and Liangjie Zhang
+57. **Enhanced Graph Learning for Collaborative Filtering via Mutual Information Maximization**
+    Yonghui Yang, Le Wu, Richang Hong, Kun Zhang and Meng Wang
+58. **Heterogeneous Attention Network for Effective and Efficient Cross-modal Retrieval**
+    Tan Yu, Yi Yang, Yi Li, Lin Liu, Hongliang Fei and Ping Li
+59. **Answer Complex Questions: Path Ranker Is All You Need**
+    Xinyu Zhang, Ke Zhan, Enrui Hu, Chengzhen Fu, Lan Luo, Hao Jiang, Yantao Jia, Fan Yu, Zhicheng Dou, Zhao Cao and Lei Chen
+60. **WGCN: Graph Convolutional Networks with Weighted Structural Features**
+    Yunxiang Zhao, Jianzhong Qi, Qingwei Liu and Rui Zhang
 
 </details>
 
@@ -238,16 +302,16 @@ Here are some meterials in my Zhihu.
 |   Type   |   38    |
 
 ### Relation Statistics
-|     Relation     | #Relation |
-| :--------------: | :-------: |
-|   User - Movie   | 1,068,278 |
-|   User - Group   |  570,047  |
-|   User - User    |   4,085   |
-|  Movie - Actor   |  33,587   |
-| Movie - Director |  11,276   |
-|   Movie - Type   |  27,668   |
-## Douban Book 
-(Containing rating information)
+|            Relation             | #Relation |
+| :-----------------------------: | :-------: |
+|          User - Movie           | 1,068,278 |
+|          User - Group           |  570,047  |
+|           User - User           |   4,085   |
+|          Movie - Actor          |  33,587   |
+|        Movie - Director         |  11,276   |
+|          Movie - Type           |  27,668   |
+|         ## Douban Book          |           |
+| (Containing rating information) |           |
 
 ### Entity Statistics
 |  Entity   | #Entity |
@@ -261,17 +325,17 @@ Here are some meterials in my Zhihu.
 |   Year    |   64    |
 
 ### Relation Statistics
-|     Relation     | #Relation |
-| :--------------: | :-------: |
-|   User - Book    |  792,062  |
-|   User - Group   | 1,189,271 |
-|   User - User    |  169,150  |
-| User - Location  |  10,592   |
-|  Book - Author   |  21,907   |
-| Book - Publisher |  21,773   |
-|   Book - Year    |  21,192   |
-## Amazon
-(Containing rating and timestamp information)
+|                   Relation                    | #Relation |
+| :-------------------------------------------: | :-------: |
+|                  User - Book                  |  792,062  |
+|                 User - Group                  | 1,189,271 |
+|                  User - User                  |  169,150  |
+|                User - Location                |  10,592   |
+|                 Book - Author                 |  21,907   |
+|               Book - Publisher                |  21,773   |
+|                  Book - Year                  |  21,192   |
+|                   ## Amazon                   |           |
+| (Containing rating and timestamp information) |           |
 
 (Source : http://jmcauley.ucsd.edu/data/amazon/)
 ### Entity Statistics
@@ -284,14 +348,14 @@ Here are some meterials in my Zhihu.
 |  Brand   |   334   |
 
 ### Relation Statistics
-|    Relation     | #Relation |
-| :-------------: | :-------: |
-|   User - Item   |  195,791  |
-|   Item - View   |   5,694   |
-| Item - Category |   5,508   |
-|  Item - Brand   |   2,753   |
-## LastFM
-(Note: We utilize the Pearson's coefficient to measure the similiarities in the KNN algorithm)
+|                           Relation                           | #Relation |
+| :----------------------------------------------------------: | :-------: |
+|                         User - Item                          |  195,791  |
+|                         Item - View                          |   5,694   |
+|                       Item - Category                        |   5,508   |
+|                         Item - Brand                         |   2,753   |
+|                          ## LastFM                           |           |
+| (Note: We utilize the Pearson's coefficient to measure the similiarities in the KNN algorithm) |           |
 
 (Source : https://grouplens.org/datasets/hetrec-2011/)
 
